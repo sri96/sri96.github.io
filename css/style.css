@@ -454,6 +454,7 @@ ol {
 }
 
 .resume-list li {
+	margin-bottom: 120px;
 	position: relative;
 }
 
