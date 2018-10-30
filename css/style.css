@@ -410,7 +410,7 @@ ol {
 }
 
 .hero-image {
-	padding-top: 70px;
+	padding-top: 50px;
 }
 
 .hero-info h2 {
@@ -438,52 +438,6 @@ ol {
 }
 
 /*---------------------
-	Social section
------------------------*/
-.social-section {
-	background: #f9f9f9;
-	padding: 80px 0;
-}
-
-.social-section .social-links {
-	display: inline-block;
-	background: #f9f9f9;
-	position: relative;
-	z-index: 5;
-}
-
-.social-section .social-links a {
-	color: #484848;
-	font-size: 36px;
-	margin-right: 40px;
-}
-
-.social-section .social-link-warp {
-	position: relative;
-}
-
-.social-section .social-link-warp h2 {
-	display: inline-block;
-	float: right;
-	font-weight: 400;
-	padding-left: 30px;
-	background: #f9f9f9;
-	position: relative;
-	z-index: 5;
-}
-
-.social-section .social-link-warp:after {
-	position: absolute;
-	content: '';
-	width: 50%;
-	height: 2px;
-	left: 23%;
-	top: 50%;
-	margin-top: 1px;
-	background: #cbcbcb;
-}
-
-/*---------------------
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
@@ -500,7 +454,6 @@ ol {
 }
 
 .resume-list li {
-	margin-bottom: 120px;
 	position: relative;
 }
 
